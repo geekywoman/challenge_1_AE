@@ -28,3 +28,7 @@ Les fonts utilisés sur le site sont :
 - Par exemple : http://drinchev.github.io/monosocialiconsfont/
 
 A rendre pour le 01 octobre.
+=======
+# challenge_1_AE
+# Challenge 1 de la Code Académie
+# Equipe : Alice Carry & Ewilan Rivière
