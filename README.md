@@ -1,3 +1,6 @@
+# Challenge 1 de la Code Académie
+• Equipe : Alice Carry & Ewilan Rivière
+
 # Projet "Create pro"
 
 Le but du projet est de réaliser l'intégration de la maquette livrée (maquette.png) avec ce fichier en utilisant uniquement du HTML et du CSS
@@ -28,7 +31,3 @@ Les fonts utilisés sur le site sont :
 - Par exemple : http://drinchev.github.io/monosocialiconsfont/
 
 A rendre pour le 01 octobre.
-=======
-# challenge_1_AE
-# Challenge 1 de la Code Académie
-# Equipe : Alice Carry & Ewilan Rivière
