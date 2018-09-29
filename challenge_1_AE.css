@@ -1,0 +1,93 @@
+#title {
+	color: #cfa205;
+	font-size: 133px;
+	font-family: 'Josefin Sans', sans-serif;
+	font-style: normal;
+	font-weight: 100;
+}
+
+#subtitle {
+	color: #cfa205;
+	font-size: 18px;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+#abstract {
+	font-size: 18px;
+	font-family: 'Bitter';
+	color: #7a7a7a;
+	font-weight: 900;
+}
+
+p {
+	color: purple;
+}
+
+.image {
+	width: 120px;
+	height: 80px;
+}
+
+body {
+	background-image: url(images/bg.jpg);
+}
+
+.titlebox {
+	padding: 70px 0;
+	text-align: center;
+	background-color: black;
+}
+
+.navigation {
+	position: absolute
+	text-align: center;
+	width: 1020px;
+	height: 320px;
+	background-color: black;
+}
+
+.socialnetwork {
+	padding: 70px 0;
+	text-align: center;
+	background-color: #e8e8e8;
+}
+
+.page {
+	padding: 70px 0;
+	text-align: center;
+	background-color: #ffffff;
+}
+
+<--! Social Network Icons -->
+
+@font-face {
+    font-family: 'Mono Social Icons Font';
+    src: url('MonoSocialIconsFont-1.10.eot');
+    src: url('MonoSocialIconsFont-1.10.eot?#iefix') format('embedded-opentype'),
+         url('MonoSocialIconsFont-1.10.woff') format('woff'),
+         url('MonoSocialIconsFont-1.10.ttf') format('truetype'),
+         url('MonoSocialIconsFont-1.10.svg#MonoSocialIconsFont') format('svg');
+    src: url('MonoSocialIconsFont-1.10.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.symbol, a.symbol:before {
+    font-family: 'Mono Social Icons Font';
+    -webkit-text-rendering: optimizeLegibility;
+    -moz-text-rendering: optimizeLegibility;
+    -ms-text-rendering: optimizeLegibility;
+    -o-text-rendering: optimizeLegibility;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
+    -ms-font-smoothing: antialiased;
+    -o-font-smoothing: antialiased;
+    font-smoothing: antialiased;
+}
+
+a.symbol:before {
+    content: attr(title);
+    margin-right: 0.3em;
+    font-size: 130%;
+}
